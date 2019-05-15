@@ -1,7 +1,7 @@
 # useful-linux-4-me
 
-# linux-for-me
-Linux Cheatsheet
+
+## Linux Cheatsheet
 
 1. Creating a new directory in linux
    ```
@@ -87,7 +87,7 @@ Linux Cheatsheet
      clear
      ```
 
-   # Vi Editor Cheatsheet
+## Vi Editor Cheatsheet
  
     **Opening a file in vi editor**
     
@@ -126,7 +126,7 @@ Linux Cheatsheet
     To move between lines up and down use arrow keys in command mode. To move left and right use left and right arror keys in command mode 
     ```
 
-   # Grep Command
+## Grep Command
   
   **Searching for a string in a file**
   
@@ -261,7 +261,7 @@ Linux Cheatsheet
   
   ```
  
- # Find command
+## Find command
  
  find command is used for searching for files 
  
